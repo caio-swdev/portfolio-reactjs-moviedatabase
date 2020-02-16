@@ -1,0 +1,13 @@
+.moviedetails {
+  padding-bottom: 50px;
+
+  .cast-section {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    .actor:last-child {
+      margin-right: 0px;
+    }
+  }
+}

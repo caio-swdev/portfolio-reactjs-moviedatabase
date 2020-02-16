@@ -1,0 +1,16 @@
+.movielist {
+  margin-top: 50px;
+  .movierow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  @media only screen and (max-width: 870px) {
+    .movierow {
+      width: 90%;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.actor-detail {
+  width: 200px;
+  list-style: none;
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+  }
+  .actor-data {
+    padding: 10px;
+
+    h3,
+    p {
+      margin: 8px 0px 0px 0px;
+    }
+  }
+}

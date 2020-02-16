@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/caio-swdev/tmdb/static/css/main.2863b910.chunk.css",
-    "main.js": "/caio-swdev/tmdb/static/js/main.8ce52209.chunk.js",
-    "main.js.map": "/caio-swdev/tmdb/static/js/main.8ce52209.chunk.js.map",
-    "runtime-main.js": "/caio-swdev/tmdb/static/js/runtime-main.0cbf9e77.js",
-    "runtime-main.js.map": "/caio-swdev/tmdb/static/js/runtime-main.0cbf9e77.js.map",
-    "static/js/2.7a0609a7.chunk.js": "/caio-swdev/tmdb/static/js/2.7a0609a7.chunk.js",
-    "static/js/2.7a0609a7.chunk.js.map": "/caio-swdev/tmdb/static/js/2.7a0609a7.chunk.js.map",
-    "index.html": "/caio-swdev/tmdb/index.html",
-    "precache-manifest.136c9de08042c2afde7fd4bba3fb8b48.js": "/caio-swdev/tmdb/precache-manifest.136c9de08042c2afde7fd4bba3fb8b48.js",
-    "service-worker.js": "/caio-swdev/tmdb/service-worker.js",
-    "static/css/main.2863b910.chunk.css.map": "/caio-swdev/tmdb/static/css/main.2863b910.chunk.css.map",
-    "static/js/2.7a0609a7.chunk.js.LICENSE": "/caio-swdev/tmdb/static/js/2.7a0609a7.chunk.js.LICENSE"
+    "main.css": "/caio-swdev/portfolio-reactjs-moviedatabase/static/css/main.2863b910.chunk.css",
+    "main.js": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/main.86085824.chunk.js",
+    "main.js.map": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/main.86085824.chunk.js.map",
+    "runtime-main.js": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/runtime-main.678fb40f.js",
+    "runtime-main.js.map": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/runtime-main.678fb40f.js.map",
+    "static/js/2.7a0609a7.chunk.js": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/2.7a0609a7.chunk.js",
+    "static/js/2.7a0609a7.chunk.js.map": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/2.7a0609a7.chunk.js.map",
+    "index.html": "/caio-swdev/portfolio-reactjs-moviedatabase/index.html",
+    "precache-manifest.266cf867eed6bf512e7d2f98ffca470a.js": "/caio-swdev/portfolio-reactjs-moviedatabase/precache-manifest.266cf867eed6bf512e7d2f98ffca470a.js",
+    "service-worker.js": "/caio-swdev/portfolio-reactjs-moviedatabase/service-worker.js",
+    "static/css/main.2863b910.chunk.css.map": "/caio-swdev/portfolio-reactjs-moviedatabase/static/css/main.2863b910.chunk.css.map",
+    "static/js/2.7a0609a7.chunk.js.LICENSE": "/caio-swdev/portfolio-reactjs-moviedatabase/static/js/2.7a0609a7.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cbf9e77.js",
+    "static/js/runtime-main.678fb40f.js",
     "static/js/2.7a0609a7.chunk.js",
     "static/css/main.2863b910.chunk.css",
-    "static/js/main.8ce52209.chunk.js"
+    "static/js/main.86085824.chunk.js"
   ]
 }
